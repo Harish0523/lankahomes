@@ -1,0 +1,94 @@
+body.back{background-image: url("k.jpg");
+background-size:cover;
+}
+div.back1{
+	background-image: url("mp.jpeg");
+	background-size:cover;
+    color:white;
+    font-size: 50px;
+    text-align: center;
+}
+
+h1.head{
+color:white;
+  font-size: 50px;
+  text-align: center;
+  
+}
+.creat{
+	color:blue;
+}
+.table{
+	width:50%;
+	text-align:left;
+}
+a{
+	font-size:40px;
+    color:white;
+	text-decoration:none;
+	list-style-type:none;
+}
+a:hover{
+	border-style:ridge;
+	border-color:orange;
+	background-color:pink;
+	
+}
+img{
+	border-radius:70%;
+}
+.mission{  color:#FF1493;
+    text-align:center;
+	font-size:80px;
+	font-weight:bold;
+}
+
+h2{ color:#00FF00;
+	font-size:130px;
+	text-align:center;
+	font-weight:bold;
+}
+.doll{
+	font-size:50px;
+	color:black;
+	text-align:center;
+}
+	
+.tedy{text-align:center;
+    color:white;
+    font-size:30pt;}
+
+.About{
+color:black;
+  font-size: 60px;
+  text-align: center;
+  
+}
+h3{
+color:black;
+  font-size: 50px;
+  text-align: center;
+  
+}
+.use{
+color:black;
+  font-size: 40px;
+  text-align: center;
+  
+}
+
+  .image{
+	  width:950px;
+	  height:950px;	  
+	  border-radius:30%;
+	  
+  }
+ .image1{
+	 width:100%;
+	 height:50px;
+	 border-radius:20%;
+ }
+ .css:hover{background-color:pink;
+	  border-radius:30%;
+}
+	 
